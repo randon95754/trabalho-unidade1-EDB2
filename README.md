@@ -13,3 +13,5 @@ Durante a execução, o sistema calcula automaticamente os tempos médios de exe
 resultados.csv
 
 Esse arquivo contém os pares (n, tempo) para os dois algoritmos analisados e foi posteriormente importado para o Google Planilhas, onde foram construídos os gráficos comparativos com as funções assintóticas teóricas O(n²) e O(n log n).
+
+ATENÇÃO: Caso nao queira compilar o programa, os dados utilizados na analise está no arquivo resultado.csv
